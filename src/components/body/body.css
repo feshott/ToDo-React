@@ -1,0 +1,21 @@
+.body {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background-color: rgba(0, 225, 255, 0.452);
+    border: 10px solid green;
+}
+.list {
+    width: 380px;
+    height: 380px;
+    background: skyblue;
+    margin: 0 auto;
+}
+.procent {
+    position: absolute;
+    top: -130px;
+    left: 120px;
+    font-size: 110px;
+    color: hotpink;
+    font-family: sans-serif;
+}
